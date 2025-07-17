@@ -16,3 +16,5 @@
 *.vtt
 *.srt
 *.txt
+*.DS_Store
+*.vscode
